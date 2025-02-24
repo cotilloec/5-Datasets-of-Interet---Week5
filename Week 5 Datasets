@@ -1,1 +1,18 @@
+5 Datasets Selected: 
+1.
+https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+This data set contains gene expression data from various breast cancer samples. By analyzing this dataset, we are able to see if there is any correlation with the regulation of certain genes that were discussed in this first study linked. Furthermore, this dataset shows a subset for 5 different types of breast cancer, allowing for variation with seeing the upregulation and downregulation with genes present. With effective data mining, predicting cancer subtypes based on gene expression patterns is possible, adding further data to compare with that of AD gene expression.
+2. 
+https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction
+This data is a collection of factors that are commonly looked at when examining the likelihood of a patient being susceptible to a heart disease. The data ranges from blood pressure to exercise frequency, and even cholesterol levels. Proper mining of this data could prove to be useful with predicting patients that are more susceptible based on their profile expressed in this dataset. 
+3. 
+https://www.kaggle.com/datasets/brunogrisci/breast-cancer-gene-expression-cumida . This data set provides information regarding breast cancer and gene expression. There are five different types of breast cancer that are shown in this data set, and each is categorized with their expressed gene. I think it would be interesting to see, personally, which gene is the most commonly expressed amongst all cancers.
+4.
+https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers/data?select=oasis_longitudinal.csv 
+With this data, I’ll be able to see if there are any correlation with trends in age amongst Alzheimer's patients and Cancer patients, as this dataset predominantly shows AD patients.
+5. 
+https://www.kaggle.com/datasets/tusharkute/cancer-probabilities
+With this dataset, I’ll be able to see potential cancer probability amongst a population based on habit. This is the most general dataset that I have, and I wanted to include it to see if there are any trends that align with the other studies I have found.
+
+These datasets all have some similarities with variables that overlap in the studies. I want to focus on Age, different diseases, and overall trends that can be seen with the different health implications of data we have here. I am truly excited and curious to use the skills I have learned to depict anything notable that may come from these 5 datasets!
 
